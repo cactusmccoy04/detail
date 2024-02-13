@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  outline: none;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+
+body {
+  background-image: url("https://i.gifer.com/BZ7D.gif");
+  background-size: cover;
+  height: 100vh;
+}
+
+
