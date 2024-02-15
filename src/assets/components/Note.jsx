@@ -14,8 +14,8 @@ export default function Note() {
         alt=""
       />
       <p className="cited-text">
-        felicidades por llegar hasta aquí, toma una <b>vida extra</b>, <br /> <p className="iloveyou-text">te
-        amo mucho</p>
+        felicidades por llegar hasta aquí, toma una <b>vida extra</b>, <br />{" "}
+        <p className="iloveyou-text">te amo mucho</p>
       </p>
     </div>
   );

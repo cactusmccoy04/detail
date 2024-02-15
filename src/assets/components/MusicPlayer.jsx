@@ -27,7 +27,7 @@ export default function MusicPlayer() {
       </aside>
       <audio
         ref={audioPlayer}
-        src="src/assets/audio/coldPlay-Yellow_song.mp3"
+        src="https://firebasestorage.googleapis.com/v0/b/fleet-space-379301.appspot.com/o/coldPlay-Yello_song.mp3?alt=media&token=f530abf2-6605-4096-8351-7993fb4112ab"
       />
       <div onClick={togglePlay}>
         {isPlaying ? (
